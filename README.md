@@ -1,2 +1,2 @@
-# BakeryWebPage
-my htlm and css classes semester 1 homework
+# Resume UI\UX
+my htlm and css 
